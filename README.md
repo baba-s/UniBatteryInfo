@@ -1,11 +1,11 @@
-# Uni Battery Info
+﻿# Uni Battery Info
 
 バッテリーの情報を管理するクラス
 
 ## 使用例
 
 ```cs
-using UniBatteryInfo;
+using Kogane;
 using UnityEngine;
 
 public class Example : MonoBehaviour

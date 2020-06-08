@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace UniBatteryInfo
+namespace Kogane
 {
 	/// <summary>
 	/// バッテリーの状態
